@@ -43,15 +43,15 @@ __Test cases__
 
 :bar_chart: __Information about tests in Allure report__
 
-##Main window
+### Main window
 
 ![allurereport1](https://user-images.githubusercontent.com/99205353/178308806-d756d7ca-f6e2-405b-946a-0868f6d125de.png)
 
-##Window with test cases
+### Window with test cases
 
 ![allurereport2](https://user-images.githubusercontent.com/99205353/178308931-2cd915fd-e2a9-400d-9e23-96336d296495.png)
 
-##Window with charts
+### Window with charts
 
 ![allurereport3](https://user-images.githubusercontent.com/99205353/178309165-ab6d1263-d31e-4891-89c6-ca38add42cb5.png)
 

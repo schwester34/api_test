@@ -25,9 +25,7 @@
 ![JUnit5](https://user-images.githubusercontent.com/99205353/178306859-0f45681e-8a2f-4415-861f-71549f0f03a5.png)
 ![AllureTestOps](https://user-images.githubusercontent.com/99205353/178306928-b4276a60-726c-4017-b3c3-adc0da7c890a.png)
 ---
-__Implemented checks__
-
- _Test cases_
+__Test cases__
 
 - [ ] Search for user information
 - [ ] Getting a list of users
@@ -42,7 +40,7 @@ __Implemented checks__
 
 ![allure](https://user-images.githubusercontent.com/99205353/178308402-9d47ea1b-8979-489d-8946-54609b687323.png)
 
-__Information about tests in Allure report__
+:toolbox: __Information about tests in Allure report__
 
 Main window
 

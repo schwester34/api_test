@@ -43,7 +43,7 @@ __Test cases__
 
 ![allure](https://user-images.githubusercontent.com/99205353/178308402-9d47ea1b-8979-489d-8946-54609b687323.png)
 
-:bar_chart: __Information about tests in Allure report__
+:bar_chart: __Allure report__
 
 ### Main window
 

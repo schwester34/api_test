@@ -25,6 +25,8 @@
 ![Telegram](https://user-images.githubusercontent.com/99205353/176089393-33897979-7898-4d16-9259-5dbb134c7f2c.png)
 ![JUnit5](https://user-images.githubusercontent.com/99205353/178306859-0f45681e-8a2f-4415-861f-71549f0f03a5.png)
 ![AllureTestOps](https://user-images.githubusercontent.com/99205353/178306928-b4276a60-726c-4017-b3c3-adc0da7c890a.png)
+![Rest-Assured](https://user-images.githubusercontent.com/99205353/178311812-cd21d105-3c3f-4d38-8f04-690eaa4702f9.png)
+
 ---
 __Test cases__
 

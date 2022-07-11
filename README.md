@@ -58,6 +58,18 @@ __Test cases__
 ![allurereport3](https://user-images.githubusercontent.com/99205353/178309165-ab6d1263-d31e-4891-89c6-ca38add42cb5.png)
 
 ---
+:toolbox: __Integration with AllureTestOps__
+
+### Test cases with launch history
+
+![alluretestops1](https://user-images.githubusercontent.com/99205353/178318609-bdd85151-3ef3-446e-8a9d-dc8ac28d4518.png)
+
+### Dashboard
+
+![alluretestops2](https://user-images.githubusercontent.com/99205353/178318741-33e7be74-6d83-4815-857f-1a2ae1275863.png)
+
+
+---
 :incoming_envelope: __Telegram Report__
 
 ![telegramreport](https://user-images.githubusercontent.com/99205353/178309330-dbd68fa2-81dc-42ec-8b4e-a5b33bda2e76.png)

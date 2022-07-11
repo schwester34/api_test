@@ -5,7 +5,7 @@
 
 :closed_book: __Content__
 + Technologies and tools
-+ Implemented checks
++ Test cases
 + Build in Jenkins
 + Allure Report
 + Integration with AllureTestOps

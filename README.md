@@ -28,7 +28,7 @@
 ![Rest-Assured](https://user-images.githubusercontent.com/99205353/178311812-cd21d105-3c3f-4d38-8f04-690eaa4702f9.png)
 
 ---
-__Test cases__
+:toolbox:__Test cases__
 
 - [ ] Search for user information
 - [ ] Getting a list of users

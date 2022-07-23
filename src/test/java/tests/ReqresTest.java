@@ -61,7 +61,7 @@ public class ReqresTest extends TestBase {
     }
 
     @Test
-    @DisplayName("Creating a user")
+    @DisplayName("Create user")
     void createUserTest() {
         User user = new User();
         user.setName("morpheus");
